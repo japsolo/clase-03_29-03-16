@@ -16,8 +16,10 @@
 		</ul>
 	</li>
 	<li>Posicionamiento de caja
-		<li>Flotante</li>
-		<li>Relativo</li>
-		<li>Absoluto</li>
+		<ul>
+			<li>Flotante</li>
+			<li>Relativo</li>
+			<li>Absoluto</li>
+		</ul>
 	</li>
 </ul>
